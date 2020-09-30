@@ -1,1 +1,1 @@
-print("test2"):wq
+print("test2")
